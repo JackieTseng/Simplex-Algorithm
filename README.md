@@ -1,4 +1,4 @@
-# Simplex Algorithm Implementation
+# Simplex Algorithm Implementation with Simplex Tables
 
 # Installiation
 ```
