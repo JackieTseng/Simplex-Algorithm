@@ -1,3 +1,5 @@
+# Simplex Algorithm Implementation
+
 # Installiation
 ```
 pip install PTable
@@ -9,7 +11,7 @@ easy_install PTable
 
 # Run
 ```
-python advanced_simplex.py number
+python advanced_simplex.py [number]
 ```
 P.s. number can be [1, 2, 3] for three different test cases
 
